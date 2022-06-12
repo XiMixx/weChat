@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">聊天APP</string>
+    <string name="register_title">用户注册界面</string>
+    <string name="login_title">用户登录界面</string>
+    <string name="user_hint">请输入用户4-10个字符</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string name="rpwd_hint">请确认密码</string>
+    <string name="email">邮箱：</string>
+    <string name="sex">请选择性别：</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="school">请选择学校：</string>
+    <string name="city">所在城市：</string>
+    <string name="date">出生日期：</string>
+    <string name="automatic">自动登录</string>
+    <string name="remember">记住密码</string>
+    <string name="register">注册</string>
+    <string name="to_register">去注册</string>
+    <string name="clear">重置</string>
+    <string name="login">登录</string>
+    <string name="message">
+        版权所有:广东东软学院软件工程系  \n
+        广东东软学院网址：https://www.nuit.edu.cn    \n
+        联系电话：18988888888                       \n
+        邮箱：tgh@qq.com
+    </string>
+    <string name="friendName">请输入添加的好友名字</string>
+    <string name="friendIntroduce">请输入添加的好友介绍</string>
+    <string name="friendState">在线状态：</string>
+    <string name="add">添加</string>
+    <string name="cancel">取消</string>
+</resources>
